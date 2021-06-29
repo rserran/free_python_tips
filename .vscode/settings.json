@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\mdanc\\Anaconda3\\envs\\free_python_tips\\python.exe",
+    "python.pythonPath": "/Users/ricsam/opt/anaconda3/envs/av/bin/python",
     "jupyter.sendSelectionToInteractiveWindow": true,
     "jupyter.notebookFileRoot": "${workspaceFolder}",
 }
