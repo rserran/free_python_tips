@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/Users/ricsam/opt/anaconda3/envs/av/bin/python",
-    "jupyter.sendSelectionToInteractiveWindow": true,
+    "python.pythonPath": "/Users/mdancho/opt/anaconda3/envs/free_python_tips/bin/python",
     "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
 }

@@ -2,13 +2,12 @@
 # TIP 004 | Linear Regression in Python with Scikit Learn ----
 #
 # 👉 For Weekly Python-Tips, Sign Up Here:
-#    https://mailchi.mp/business-science/python_tips_newsletter
+#    https://learn.business-science.io/python-tips-newsletter
 
 # LIBRARIES ----
 
 import pandas as pd
 import numpy as np
-from sklearn import metrics
 
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
@@ -30,7 +29,6 @@ X = mpg_df[['weight']]
 # Fitting ----
 
 model_lr = LinearRegression().fit(X, y)
-
 model_lr
 
 
